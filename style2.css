@@ -1,0 +1,47 @@
+html
+{
+box-sizing: border-box;
+font-size: 16px;
+}
+
+.intro
+{
+color: red;
+}
+
+body
+{
+background-color: #461010;
+font-family: sans-serif;
+color: rgb(253, 224, 224);
+}
+
+.about
+{
+display: flex;
+width: 100%;
+}
+
+.avatar
+{
+box-sizing: border-box;
+padding: 50px;
+width: 30%;
+}
+
+.spacing
+{
+width: 10%;
+}
+
+.info
+{
+box-sizing: border-box;
+padding: 10px;
+width: 50%;
+height: auto;
+font-weight: bold;
+font-family: monospace;
+font-size: 20px;
+align-items: center;
+}
